@@ -1,0 +1,4 @@
+ssh embabi@your_vm_ip
+uname
+echo "The output of 'uname' without any options is:" > answer.txt
+echo "Output-from-VM" >> answer.txt
